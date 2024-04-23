@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+trainer/test_trainer.py
+
+inference_data
+pose
+short-pant_male_weights
+smpl
+SMPL_python_v.1.1.0
